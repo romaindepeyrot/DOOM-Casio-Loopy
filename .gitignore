@@ -1,0 +1,8 @@
+/build/
+/wad/__pycache__/
+*.wad
+*.WAD
+/doom-loopy.bin
+/doom19s.zip
+*.sav
+__pycache__/
